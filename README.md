@@ -36,6 +36,7 @@ To run this application locally, you need to have Python installed on your machi
 
 - `app.py`: The main application file.
 - `Crop_recommendation.csv`: The dataset used for training the model.
+- `test_model.py`: Script to test the accuracy of the Random Forest model with cross-validation.
 - `requirements.txt`: List of Python packages required to run the app.
 
 ## Usage
